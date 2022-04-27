@@ -30,7 +30,7 @@ from pyfiglet import figlet_format
 import cs 
 from threading import Thread
 from colorama import init	   
-BMCpass='redfish'
+BMCpass='***'
 from threading import Timer
 
 
